@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.frame3-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .frame3-frame3 {
+    width: 100%;
+    height: 928px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .frame3rect1 {
+    top: 156px;
+    left: -60px;
+    width: 425px;
+    height: 617px;
+    position: absolute;
+  }
+  .frame3rect2 {
+    top: 155px;
+    left: 385px;
+    width: 425px;
+    height: 617px;
+    position: absolute;
+  }
+  .frame3rect4 {
+    top: 156px;
+    left: 1275px;
+    width: 425px;
+    height: 617px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  /* .frame3rect11 {
+    top: 0px;
+    left: 0px;
+    width: 425px;
+    height: 617px;
+    position: absolute;
+  } */
+  .frame3-text {
+    top: 29px;
+    left: 355px;
+    color: rgba(163, 158, 158, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame3navbar {
+    top: 29px;
+    left: 1175px;
+    width: 462px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .btn-work {
+    left: 124px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .btn-home {
+    color: rgba(163, 158, 158, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .btn-about {
+    left: 251px;
+    color: rgba(163, 158, 158, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .btn-contact {
+    left: 381px;
+    color: rgba(163, 158, 158, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .logos {
+    top: 863px;
+    left: 1681px;
+    width: 113px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .insta {
+    color: rgba(217, 217, 217, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .linkdein {
+    left: 46px;
+    color: rgba(217, 217, 217, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame3-group5 {
+    top: 0px;
+    left: 90px;
+    width: 23px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .Behance {
+    color: rgba(217, 217, 217, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .frame3-line1 {
+    top: 6px;
+    left: 15px;
+    width: 5px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame3-line2 {
+    top: 3px;
+    left: 32px;
+    width: 14px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame3-line3 {
+    top: 3px;
+    left: 76px;
+    width: 14px;
+    height: 1px;
+    position: absolute;
+  }
+  .frame3rect3 {
+    top: 156px;
+    left: 830px;
+    width: 425px;
+    height: 617px;
+    position: absolute;
+  }
+  
